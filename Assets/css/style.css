@@ -192,6 +192,13 @@ body {
     body {
         padding: 20px;
     }
+
+    .header h1 {
+        font-size: 1rem;
+    }
+    .no {
+        font-size: 16px;
+    }
     .wrapper {
         width: 100%;
     }
