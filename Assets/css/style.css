@@ -116,7 +116,11 @@ body {
     display: inline-block;
     font-size: 1rem;
     word-spacing: 1px;
-    margin: 0px 5px 2px 0px;
+    margin: 0px 5px 0px 0px;
+}
+
+.unread {
+    margin-left: 4px;
 }
 
 
